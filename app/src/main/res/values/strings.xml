@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">postlite</string>
+    <string name="tab_text_1">Questions</string>
+    <string name="tab_text_2">Affirmations</string>
+</resources>
